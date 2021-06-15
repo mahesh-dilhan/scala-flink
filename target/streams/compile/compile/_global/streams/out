@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mahesh/play/flink/wordcount/src/main/scala/WordCount.scala:52:14: identifier expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m       Array["To be, or not to be,--that is the question:-- ","Whether 'tis nobler in the mind to suffer"][0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mahesh/play/flink/wordcount/src/main/scala/WordCount.scala:53:3: ']' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

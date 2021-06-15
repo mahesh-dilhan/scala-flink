@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/mahesh/play/flink/wordcount/target/scala-2.12/wordcount_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/flink/wordcount/target/scala-2.12/classes/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/flink/wordcount/target/scala-2.12/classes/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/flink/wordcount/target/scala-2.12/classes/WordCount$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mahesh/play/flink/wordcount/target/scala-2.12/classes/WordCount$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
